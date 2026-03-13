@@ -1,16 +1,20 @@
-## Hi there 👋
+Engineer focused on building backend systems, APIs, and applications
+across web, mobile, and cloud environments.
 
-<!--
-**morebytes/morebytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies I've worked with include:
+- Go
+- Dart / Flutter
+- Java
+- Python
+- Rust
+- AWS
 
-Here are some ideas to get you started:
+Most professional work lives in private repositories, but a few
+personal and experimental projects are shared here when possible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlighted Project
+
+Rust Compiler Experiment
+
+_A small experimental compiler written in Rust exploring parsing,
+AST construction, and bytecode generation._
