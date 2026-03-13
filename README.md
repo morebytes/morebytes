@@ -2,11 +2,12 @@ Engineer focused on building backend systems, APIs, and applications
 across web, mobile, and cloud environments.
 
 Technologies I've worked with include:
-- Go
+- React
 - Dart / Flutter
-- Java
+- C#
 - Python
 - Rust
+- Go
 - AWS
 
 Most professional work lives in private repositories, but a few
