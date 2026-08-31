@@ -11,7 +11,7 @@ Technologies I've worked with include:
 - AWS
 
 Most professional work lives in private repositories, but a few
-personal and experimental projects are shared here when possible.
+personal and experimental projects are shared here.
 
 ### Highlighted Project
 
